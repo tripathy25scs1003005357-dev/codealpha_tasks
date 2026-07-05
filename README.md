@@ -4,7 +4,6 @@ Overview
 This repository contains the Python projects completed as part of the CodeAlpha Python Programming Internship. The projects focus on core Python programming concepts, problem-solving, automation, file handling, and user interaction through practical applications.
 
 Projects Included
-1. Hangman Game
 
 A console-based word guessing game where the player attempts to guess a randomly selected word one letter at a time. The player has a limited number of incorrect guesses before the game ends.
 
